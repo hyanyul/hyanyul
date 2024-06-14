@@ -2,7 +2,7 @@
   <a href="https://github.com/hyanyul">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=ffffff&height=270&section=header&text=Hyanyul's%20GitHub&fontSize=40"/>
   </a>
-</p>](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20Hyanyul's%20GitHub👏&section=header&reversal=true&fontSize=40&fontAlign=50&fontAlignY=48&animation=twinkling&rotate=0)
+</p>
 
 ## Profile
 - 이름 : 한성지
