@@ -1,4 +1,4 @@
-[<p align='center'>
+<p align='center'>
   <a href="https://github.com/hyanyul">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=ffffff&height=270&section=header&text=Hyanyul's%20GitHub&fontSize=40"/>
   </a>
