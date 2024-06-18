@@ -60,3 +60,5 @@
 |Visual Studio|Python 개발, Spring Boot 개발|
 |Oracle 21c|Eclise와 연동하여 사용|
 |MySQL|InteliJ와 연동하여 사용|
+
+![snake gif](https://github.com/hyanyul/hyanyul/blob/output/github-contribution-grid-snake.svg)
