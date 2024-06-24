@@ -16,7 +16,6 @@
   <p>Back</p>
   <img src="https://img.shields.io/badge/Java-007396?style=flt&logo=Conda-Forge&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 </div>
 
 <br>
